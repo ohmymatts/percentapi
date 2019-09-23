@@ -1,0 +1,14 @@
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/bin/Debug/netcoreapp2.2/PercentAPI.deps.json
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/bin/Debug/netcoreapp2.2/PercentAPI.runtimeconfig.json
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/bin/Debug/netcoreapp2.2/PercentAPI.runtimeconfig.dev.json
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/bin/Debug/netcoreapp2.2/PercentAPI.dll
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/bin/Debug/netcoreapp2.2/PercentAPI.pdb
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/obj/Debug/netcoreapp2.2/PercentAPI.csprojAssemblyReference.cache
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/obj/Debug/netcoreapp2.2/PercentAPI.csproj.CoreCompileInputs.cache
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/obj/Debug/netcoreapp2.2/PercentAPI.RazorAssemblyInfo.cache
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/obj/Debug/netcoreapp2.2/PercentAPI.RazorAssemblyInfo.cs
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/obj/Debug/netcoreapp2.2/PercentAPI.AssemblyInfoInputs.cache
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/obj/Debug/netcoreapp2.2/PercentAPI.AssemblyInfo.cs
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/obj/Debug/netcoreapp2.2/PercentAPI.RazorTargetAssemblyInfo.cache
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/obj/Debug/netcoreapp2.2/PercentAPI.dll
+/Users/usuario/RiderProjects/PercentAPI/PercentAPI/obj/Debug/netcoreapp2.2/PercentAPI.pdb
